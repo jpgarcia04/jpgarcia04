@@ -18,7 +18,7 @@ Disfruto llevar una idea de mi cabeza a algo real, resolver lo que se puede mejo
 vez mejor.
 
 - 🛠️ Construyo herramientas para mí y para clientes: webs, automatizaciones y apps de escritorio.
-- 🔍 Aprendo la herramienta que un proyecto necesita, aunque no esté en el temario.
+- 🔍 Aprendo la herramienta que un proyecto necesita, aunque no esté a mi alcance inmediato.
 - 🔁 Reviso lo que hago y lo mejoro aunque ya funcione.
 - 🎯 Quiero seguir creciendo como desarrollador, con interés en la ciberseguridad y la
   inteligencia artificial.
