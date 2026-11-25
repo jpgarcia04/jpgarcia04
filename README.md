@@ -1,7 +1,7 @@
-<h2 align="center">Hola, soy Juan Pablo (JP) 👋</h2>
+<h1 align="center">Juan Pablo García Monsalve</h1>
 
 <p align="center">
-  Desarrollador en formación · Mexicano en Málaga · Me gusta construir cosas que se usan de verdad
+  Desarrollador de aplicaciones · De la curiosidad a crear algo útil
 </p>
 
 <p align="center">
@@ -13,16 +13,9 @@
 
 ### Sobre mí
 
-Estudio 2.º de **Desarrollo de Aplicaciones Multiplataforma** en Davante MEDAC Nova (Málaga). Fuera
-de clase dedico casi todo mi tiempo a proyectos propios: empiezo con una idea, la llevo hasta algo
-que funciona y aprendo por el camino la tecnología que haga falta.
+Estudio 2.º de **Desarrollo de Aplicaciones Multiplataforma** en Davante MEDAC Nova (Málaga).
 
 - 🛠️ Construyo herramientas para mí y para clientes: webs, automatizaciones y apps de escritorio.
-- 🤖 Me interesa mucho el desarrollo con **agentes de IA**: cómo dirigirlos bien y cómo darles
-  acceso seguro a mis aplicaciones (MCP).
-- 🌱 Ahora mismo aprendo back-end con **Node.js** y **Spring Boot**.
-- 🤝 Antes de programar trabajé dos años atendiendo clientes y llevando la gestión de un estudio,
-  y eso me enseñó a entender qué necesita de verdad quien va a usar lo que hago.
 
 ### Tecnologías
 
