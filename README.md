@@ -48,7 +48,7 @@ vez mejor.
 
 **Herramientas agénticas**<br>
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDUuNSA0LjQgNC4xIDExLjMgMTEgNC40IDE3LjkgMyAxNi41IDguNSAxMXpNMTIgMThoOXYyaC05eiIvPjwvc3ZnPg%3D%3D)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat&logo=google&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-555555?style=flat)
