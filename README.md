@@ -14,8 +14,14 @@
 ### Sobre mí
 
 Estudio 2.º de **Desarrollo de Aplicaciones Multiplataforma** en Davante MEDAC Nova (Málaga).
+Disfruto llevar una idea de mi cabeza a algo real, resolver lo que se puede mejorar y hacerlo cada
+vez mejor.
 
 - 🛠️ Construyo herramientas para mí y para clientes: webs, automatizaciones y apps de escritorio.
+- 🔍 Aprendo la herramienta que un proyecto necesita, aunque no esté en el temario.
+- 🔁 Reviso lo que hago y lo mejoro aunque ya funcione.
+- 🎯 Quiero seguir creciendo como desarrollador, con interés en la ciberseguridad y la
+  inteligencia artificial.
 
 ### Tecnologías
 
@@ -39,7 +45,13 @@ Estudio 2.º de **Desarrollo de Aplicaciones Multiplataforma** en Davante MEDAC 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_(VPS)-FCC624?style=flat&logo=linux&logoColor=black)
+
+**Herramientas agénticas**<br>
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-555555?style=flat)
 
 ### En qué ando
 
