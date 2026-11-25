@@ -52,9 +52,3 @@ vez mejor.
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat&logo=google&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-555555?style=flat)
-
-### En qué ando
-
-- [**DevHQ**](https://github.com/jpgarcia04/DevHQ): mi centro de control para apps y servidores.
-- [**Job Rob**](https://github.com/jpgarcia04/job-rob-portfolio): copiloto de búsqueda de empleo
-  hecho para una clienta real.
